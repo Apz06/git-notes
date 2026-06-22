@@ -1,5 +1,12 @@
 # git-notes
 
+
+https://chatgpt.com/share/6a38fe78-8fc0-83e8-b4c0-02bfa1c887df
+
+
+
+
+
 eTrack 2.0 — AI-Powered Work Intelligence & Productivity Governance Platform
 
 Project Documentation (Business Requirements & Solution Overview)
