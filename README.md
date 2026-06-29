@@ -3,9 +3,9 @@
 
 https://chatgpt.com/share/6a38fe78-8fc0-83e8-b4c0-02bfa1c887df
 
+https://docs.google.com/document/d/1Fzt8q52D-BKOOmwojIAQ_6Hczb9RtS46/edit?usp=drivesdk&ouid=114615787493991092738&rtpof=true&sd=true
 
-
-
+https://docs.google.com/document/d/1L43KqZTrfzEC_qqkJYjOr2DwvHvzhlvUHNm5fm32OWc/edit?usp=drivesdk
 
 eTrack 2.0 — AI-Powered Work Intelligence & Productivity Governance Platform
 
